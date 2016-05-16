@@ -8,6 +8,7 @@ Follow @JointCyber on Twitter for additional info
 Visit https://jctf.io for more information about the Joint Cyber Training Foundation
 
 Special thanks to our sponsors:
+
 Palo Alto Networks
 
 K2 Intelligence
