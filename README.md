@@ -9,8 +9,13 @@ Visit https://jctf.io for more information about the Joint Cyber Training Founda
 
 Special thanks to our sponsors:
 Palo Alto Networks
+
 K2 Intelligence
+
 SANS Institute
+
 Global Knowledge
+
 Army Cyber Institute
+
 University of Maryland Cybersecurity Center
