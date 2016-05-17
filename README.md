@@ -1,4 +1,19 @@
-# Joint Cyber Challenge 2016 Standings
+# Joint Cyber Challenge 2016 
+
+May 14-15, 2016
+
+65 teams
+
+526 competitors
+
+4 Service Academies
+
+40 total challenges
+
+38 of challenges solved
+
+
+#Standings
 * thefilesareinthecomputer
 * CyberKittenAttackSquad
 * Delogrand
